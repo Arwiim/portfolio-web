@@ -1,0 +1,8 @@
+# Django #
+.DS_Store
+*.log
+*.pot
+*.pyc
+__pycache__
+Portfolio/__pycache__/
+db.sqlite3
